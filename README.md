@@ -1,14 +1,5 @@
 Live demo
 https://symphonious-babka-011cbd.netlify.app/
 
-#### CRA Fix
 
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+![Skärmbild 2022-11-23 155305](https://user-images.githubusercontent.com/100764935/203577360-d5e177cb-39da-4456-bd5f-c54b2599935b.png)
